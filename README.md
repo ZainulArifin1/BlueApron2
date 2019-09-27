@@ -10,3 +10,6 @@ HTML and CSS Source Code for Food Ingredients Delivery and  Cooking Tutorial
 5. Our specialty product page (optional)
 6. Others
 ```
+
+### Template example
+https://www.w3schools.com/w3css/w3css_templates.asp
