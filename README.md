@@ -16,7 +16,7 @@ https://www.w3schools.com/w3css/w3css_templates.asp
 
 ## How to use git
 <> = change code accordingly
-
+```
 ### Clone an online repo to local repo
 git clone <repo_name>
 
@@ -35,3 +35,4 @@ git add .
 git commit -m "custom message"
 git checkout master
 git push origin (new_branch_name>
+```
