@@ -17,26 +17,26 @@ https://www.w3schools.com/w3css/w3css_templates.asp
 
 ## How to use git
 <> = change code accordingly
-```
-**Clone an online repo to local repo**
-git clone <repo_name>
 
-**Naviagate between branches**
-git checkout <branch_name>
+**Clone an online repo to local repo** <br/>
+git clone <repo_name> <br/>
 
-**Pull new changes from online to local repo**
-git pull
+**Naviagate between branches** <br/>
+git checkout <branch_name> <br/>
 
-**Push changes from local to online repo**
-git add .
-git commit -m "custom message"
-git push
+**Pull new changes from online to local repo** <br/>
+git pull <br/>
 
-**Create new branch and fill it with code from master repo**
-git branch <new_branch_name>
-git checkout <new_branch_name>
-git add .
-git commit -m "custom message"
-git checkout master
-git push origin (new_branch_name>
-```
+**Push changes from local to online repo** <br/>
+git add . <br/>
+git commit -m "custom message" <br/>
+git push <br/>
+
+**Create new branch and fill it with code from master repo** <br/>
+git branch <new_branch_name> <br/>
+git checkout <new_branch_name> <br/>
+git add . <br/>
+git commit -m "custom message" <br/>
+git checkout master <br/>
+git push origin <new_branch_name> <br/>
+
