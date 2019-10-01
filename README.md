@@ -1,5 +1,5 @@
 # BlueApron2
-HTML and CSS Source Code for Food Ingredients Delivery and  Cooking Tutorial \n
+HTML and CSS Source Code for Food Ingredients Delivery and  Cooking Tutorial
 Website: https://zainularifin1.github.io/ZainulArifin1/
 
 ## To do
